@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_ATLAS_PW":"7gwTDojsQyPyGqhM",
+        "JWT_SECRET_KEY":"meanstackapp_secret_key_v1"
+    }
+}
